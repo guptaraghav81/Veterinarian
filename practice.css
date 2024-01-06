@@ -1,0 +1,28 @@
+#top_nav{
+    background-color: #B19470;
+    padding: 0 8%;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: rgb(255,255,255);
+    font-size: 20px;
+    padding-left: 25px;
+}
+#search_box{
+background-color: #F8FAE5;
+outline: none;
+box-shadow: 2px 2px 65px #F9F7C9;
+
+}
+#search_btn{
+background-color: #F8FAE5;
+color: black;
+}
+body{
+    background-color: #FFE7C1;
+}
+#third-row-section{
+    background-image: url(veterinarian-check-ing-puppy-s-health_23-2148728396.avif);
+    
+    opacity: 50%;
+    
+}
